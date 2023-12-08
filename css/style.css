@@ -1,0 +1,21 @@
+ @font-face {
+    font-family: RubikBubbles;
+    src: url(../webfonts/RubikBubbles-Regular.ttf);
+}
+ @font-face {
+    font-family: MoonDance;
+    src: url(../webfonts/MoonDance-Regular.ttf);
+}
+.btn{
+    color: #fff;
+}
+.btn:hover{
+background-color: white;
+color: #000;
+}
+h1{
+    font-family:RubikBubbles ;
+}
+p{
+    font-family:MoonDance ;
+}
